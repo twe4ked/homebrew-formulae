@@ -4,8 +4,8 @@ class Aerc < Formula
 
   desc "The world's best email client"
   homepage "https://aerc-mail.org/"
-  url "https://git.sr.ht/~sircmpwn/aerc/archive/0.1.2.tar.gz"
-  sha256 "37b58c32dbaa4395deb12974b92ed0725cb248e348b7f45bdc4354f548cbf4be"
+  url "https://git.sr.ht/~sircmpwn/aerc/archive/0.1.4.tar.gz"
+  sha256 "a5c0e11ced480cdbf0bc69172252f79bd40c93e27f68979d3bd71bbc247b986e"
 
   depends_on "go" => :build
   depends_on "scdoc" => :build
